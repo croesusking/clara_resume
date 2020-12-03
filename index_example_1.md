@@ -13,7 +13,7 @@ Computer Scientist, Mathematician, Avid Webscrapper
 
 ## Currently
 
-Standing on the shoulders of giants
+Finishing up my degree and learning as much as I can.
 
 ### Specialized in
 
