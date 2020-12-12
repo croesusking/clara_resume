@@ -25,44 +25,29 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`July 2020 - Dec 2020`
+__Intern at Shopee__, Singapore
+*Technical Support*
+•	Enhanced troubleshooting and communication abilities while providing timely phone and live chat technical support to dozens of campus students, staff, and faculty each week
+•	Trained and supervised daily workloads of 5 other student technical support assistants
+•	Created new item listings with the proper CSS and HTML formatting during the busy online summer sale in Singapore.
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
 
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`September 2020 - December 2020`
+__Data Science Society | BYU-Idaho__
+*Student Data Analyst (Web Scraping and Data Collection)*
+•	Analyzed and cleaned 9,000 lines of family court data for divorce rates in Idaho’s Madison county.
+•	Collaborated with diverse team to transform raw data into predictive model form charts and observe trends of divorce rates amongst various demographics.
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
 
 `April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+__Association for Computing Machinery | BYU-Idaho__
+*Team Participant*
+•	Participated in many hackathon events to gain coding experience.
+•	Made a game in Unity for *Moonshot* themed game creation event.
 
 
 ## Service and Work History
@@ -75,8 +60,11 @@ For English, Mathematics and Higher Math subjects
 •	Helped students excel at subjects that they struggled with prior to their pre-tutoring life.
 
 
-`2023-2025`
+`Aug 2021- Apr 2022`
 __Teaching Assistent__, BYU-I
+•	Aided numerous beginner students interested in learning programming.
+•	Provided mentoring to students who were still struggling to find passion in the major.
+•	Improved grade performance of many students.
 
 
 <!-- ### Footer
