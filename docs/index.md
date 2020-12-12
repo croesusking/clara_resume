@@ -1,31 +1,25 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Clara Chan's resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Clara Chan
+Coding enthusiast and multi-linguist. Fluent in English and Chinese.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="datascience@byui.edu">croesusking777@gmail.com</a>
+| <a href="croesusking.github.io/clara_resume/">Data Science Program</a>
+| <a href="linkedin.com/in/clara-chan-1100681b0/ ">LinkedIn</a>
+| <a href="https://github.com/croesusking">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2019-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
+- Thomas E. Ricks Academic Grant with 4.0 GPA
 
 ## Related Experience
 
@@ -73,17 +67,20 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2015-2019`
+__Freelance tutor__, Singapore
+For English, Mathematics and Higher Math subjects
+•	Taught numerous students in secondary Mathematics and English.
+•	Improved students’ scores by 50% after 3 months of consistent lessons.
+•	Helped students excel at subjects that they struggled with prior to their pre-tutoring life.
 
 
 `2023-2025`
-__Service Missionary__, South Africa
-
+__Teaching Assistent__, BYU-I
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2020 -->
 
 
