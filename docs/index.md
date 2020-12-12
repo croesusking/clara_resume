@@ -3,7 +3,7 @@ layout: cv
 title: Clara Chan's resume
 ---
 # Clara Chan
-Coding enthusiast and multi-linguist. Fluent in English and Chinese.
+Machine Learning enthusiast, functional programmer and multi-linguist. Fluent in English and Chinese.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">croesusking777@gmail.com</a>
