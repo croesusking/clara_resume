@@ -25,7 +25,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`July 2020 - Dec 2020`
+`Jul 2020 - Dec 2020`
 __Intern at Shopee__, Singapore
 *Technical Support*
 •	Enhanced troubleshooting and communication abilities while providing timely phone and live chat technical support to dozens of campus students, staff, and faculty each week
@@ -36,14 +36,14 @@ __Intern at Shopee__, Singapore
 
 ### Data Science Consulting Team
 
-`September 2020 - December 2020`
+`Sep 2020 - Dec 2020`
 __Data Science Society | BYU-Idaho__
 *Student Data Analyst (Web Scraping and Data Collection)*
 •	Analyzed and cleaned 9,000 lines of family court data for divorce rates in Idaho’s Madison county.
 •	Collaborated with diverse team to transform raw data into predictive model form charts and observe trends of divorce rates amongst various demographics.
 
 
-`April 2027 - July 2027`
+`Jul 2020 - Dec 2020`
 __Association for Computing Machinery | BYU-Idaho__
 *Team Participant*
 •	Participated in many hackathon events to gain coding experience.
